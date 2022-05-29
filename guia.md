@@ -23,7 +23,7 @@
     
 **```Bienvenido a ésta nueva sección, aquí encontrarás el código básico para poder encender tu bot y mostrar su latencia, ¿Estás list@? ¡Vamos!```**
 
-> **```Paso 1: Tienes que dirigirte al editor de código de tu elección, también puedes crear un repositorio en una página web como:```** **[replit](https://replit.com) o [github](github.com)**
+> **```Paso 1: Tienes que dirigirte al editor de código de tu elección, también puedes crear un repositorio en una página web como:```** **[replit](https://replit.com)** **o** **[github](github.com)**
 
 > **```Paso dos: Ya que tu repositorio esté listo tendrás que crear un archivo .py, puedes asignarle el nombre que quieras, pero de preferencia un "main.py"```¨**
     

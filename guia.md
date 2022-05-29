@@ -1,7 +1,7 @@
 <div align="center">
   <h1> ¡Hola!, bienvenid@ a la guía NO OFICIAL de pycord </h1>
   
-  **```Paso 1: LA CREACIÓN DEL BOT```**
+  **```Introducción: LA CREACIÓN DEL BOT```**
   
   **```La creación del bot es en realidad bastante sencilla, simplemente tienes que dirigirte a la página de:```** **[Discord Developer Portal](https://discord.com/developers/docs/intro)** 
  
@@ -22,3 +22,9 @@
     <h1> Codificar el bot </h1>
     
 **```Bienvenido a ésta nueva sección, aquí encontrarás el código básico para poder encender tu bot y mostrar su latencia, ¿Estás list@? ¡Vamos!```**
+
+> **```Paso 1: Tienes que dirigirte al editor de código de tu elección, también puedes crear un repositorio en una página web como:```** **[replit](https://replit.com) o [github](github.com)**
+
+> **```Paso dos: Ya que tu repositorio esté listo tendrás que crear un archivo .py, puedes asignarle el nombre que quieras, pero de preferencia un "main.py"```¨**
+    
+> **```Paso 3: ```**

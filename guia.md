@@ -3,14 +3,11 @@
   
   **```Introducción: LA CREACIÓN DEL BOT```**
   
-  **```La creación del bot es en realidad bastante sencilla, simplemente tienes que dirigirte a la página de:```** **[Discord Developer Portal](https://discord.com/developers/docs/intro)** 
+  **```La creación del bot es en realidad bastante sencilla, simplemente tienes que dirigirte a la página de:```** **[Discord Developer Portal](https://discord.com/developers/applications)** 
  
   **```Y seguir los siguientes pasos 👇```**
   
-  >**```Paso 1: Ir al apartado de "Aplications", ahí se te pedirá el acceso a tu cuenta por lo cual tendrás que iniciar sesión.```**
-  
-  
-  >**```Paso 2: Ir al apartado de "New Aplication" que se encuentra en la esquina superior derecha y ingresar el nombre del bot, si ya lo ingresaste ¡Muy bien!, acabas de crear tu primer aplicación (si es que no tenías una antes jaja), completados estos pasos vámonos al penúltimo paso.```**
+  >**```Paso 1: Ir al apartado de "New Aplication" que se encuentra en la esquina superior derecha y ingresar el nombre del bot, si ya lo ingresaste ¡Muy bien!, acabas de crear tu primer aplicación (si es que no tenías una antes jaja), completados estos pasos vámonos al penúltimo paso.```**
   
   >**```¡Ya estás muy cerca de crear el bot! tienes que dirigirte al apartado de "Bot" y presionar el botón que dice: add bot, después te aparecerá una ventana que te dirá que la acción de crear un bot es irreversible y bla bla, solamente aprieta el botón de "Yes, do it" y ¡listo! ya tienes creado el bot.```**
   
@@ -283,3 +280,11 @@ async def av_error(ctx, error):
   <h1> Fin </h1>
 
 **```Si llegaste hasta aquí solo me queda decirte felicidades por crear tu bot y gracias por haber leido la guía completa, me ayudarías mucho dejando una estrella al repositorio y siguiéndome para así poder llegar a más personas, esto es todo.```**
+  
+
+<div align="center">
+  <h1> docs </h1>
+<div>
+ 
+# [Documentación de Pycord](https://docs.pycord.dev/en/master/)  
+# [Documentación de Discord](https://discord.com/developers/docs/intro)

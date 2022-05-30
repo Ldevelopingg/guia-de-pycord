@@ -7,7 +7,7 @@
  
   **```Y seguir los siguientes pasos 👇```**
   
-  >**```Paso 1: Ir al apartado de "New Aplication" que se encuentra en la esquina superior derecha y ingresar el nombre del bot, si ya lo ingresaste ¡Muy bien!, acabas de crear tu primer aplicación (si es que no tenías una antes jaja), completados estos pasos vámonos al penúltimo paso.```**
+  >**```Paso 1: Ir al apartado de "New Aplication" que se encuentra en la esquina superior derecha y ingresar el nombre del bot, si ya lo ingresaste ¡Muy bien!, acabas de crear tu primer aplicación (si es que no tenías una antes jaja), completados estos pasos vámonos al penúltimo paso. (si nunca haz iniciado sesión en la página de discord developer portal se te pedirá que inicies sesión, solo tienes que ingresar los datos de tu cuenta y listo, ya estás dentro)```**
   
   >**```¡Ya estás muy cerca de crear el bot! tienes que dirigirte al apartado de "Bot" y presionar el botón que dice: add bot, después te aparecerá una ventana que te dirá que la acción de crear un bot es irreversible y bla bla, solamente aprieta el botón de "Yes, do it" y ¡listo! ya tienes creado el bot.```**
   
@@ -281,7 +281,6 @@ async def av_error(ctx, error):
 
 **```Si llegaste hasta aquí solo me queda decirte felicidades por crear tu bot y gracias por haber leido la guía completa, me ayudarías mucho dejando una estrella al repositorio y siguiéndome para así poder llegar a más personas, esto es todo.```**
   
-
 <div align="center">
   <h1> docs </h1>
 <div>
